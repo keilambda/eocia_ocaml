@@ -1,0 +1,4 @@
+(executable
+ (public_name eocia_ocaml)
+ (name main)
+ (libraries eocia_ocaml))
